@@ -1,0 +1,4 @@
+obj\Debug\net5.0\Protos/SecurityLoginsLog.cs \
+obj\Debug\net5.0\Protos/SecurityLoginsLogGrpc.cs: C:/Users/Mohammed/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/Mohammed/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/Empty.proto\
+ Protos/SecurityLoginsLog.proto

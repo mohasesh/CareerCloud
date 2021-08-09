@@ -1,0 +1,50 @@
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.deps.json
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csprojAssemblyReference.cache
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.deps.json
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.runtimeconfig.json
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.runtimeconfig.dev.json
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csprojAssemblyReference.cache
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.genruntimeconfig.cache
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.deps.json
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.runtimeconfig.json
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.runtimeconfig.dev.json
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.dll
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.AssemblyInfo.cs
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.genruntimeconfig.cache
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Mohammed\source\repos\CareerCloud\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Mohammed\source\repos\CareerCloud\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\CareerCloud\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\CareerCloud\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache

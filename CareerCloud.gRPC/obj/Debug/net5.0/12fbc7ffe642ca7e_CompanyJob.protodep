@@ -1,0 +1,4 @@
+obj\Debug\net5.0\Protos/CompanyJob.cs \
+obj\Debug\net5.0\Protos/CompanyJobGrpc.cs: C:/Users/Mohammed/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/Mohammed/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/Empty.proto\
+ Protos/CompanyJob.proto

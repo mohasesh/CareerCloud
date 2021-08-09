@@ -1,0 +1,26 @@
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.Pocos\bin\Debug\netstandard2.0\CareerCloud.Pocos.deps.json
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.Pocos\bin\Debug\netstandard2.0\CareerCloud.Pocos.dll
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.Pocos\bin\Debug\netstandard2.0\CareerCloud.Pocos.pdb
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.dll
+C:\Users\Mohammed\source\repos\NET.22-3-Mohammed-Adem-N01458248.zip\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.pdb
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netstandard2.0\CareerCloud.Pocos.deps.json
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netstandard2.0\CareerCloud.Pocos.dll
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netstandard2.0\CareerCloud.Pocos.pdb
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.csprojAssemblyReference.cache
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.dll
+C:\Users\Mohammed\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.pdb
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.Pocos\bin\Debug\netstandard2.0\CareerCloud.Pocos.deps.json
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.Pocos\bin\Debug\netstandard2.0\CareerCloud.Pocos.dll
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.Pocos\bin\Debug\netstandard2.0\CareerCloud.Pocos.pdb
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.dll
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.pdb
+C:\Users\Mohammed\Documents\Dot Net Developer\Advanced C# Programming\Assignment\careercloudproject\CareerCloud\CareerCloud.Pocos\obj\Debug\netstandard2.0\CareerCloud.Pocos.csproj.AssemblyReference.cache

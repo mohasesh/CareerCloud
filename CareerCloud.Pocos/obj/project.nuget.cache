@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "T86y2Ob00IAhH0pH1gY2Qj6NTC++s+N38EU+djoTLg/sngZNf9i2Nm+io2aLNouopN/lSEppWknE8hDD7PPZVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohammed\\Documents\\Dot Net Developer\\Advanced C# Programming\\Assignment\\careercloudproject\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammed\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mohammed\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
